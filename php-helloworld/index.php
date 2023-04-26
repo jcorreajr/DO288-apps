@@ -1,3 +1,3 @@
 <?php
-print "Teste teste " . PHP_VERSION . "\n";
+print "Build2:.. Teste teste " . PHP_VERSION . "\n";
 ?>
